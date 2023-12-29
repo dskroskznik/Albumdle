@@ -1,2 +1,3 @@
 # Albumdle
-Think You Can Guess Albums By Their Covers? Albumdle: Guess In The Shortest Amount Possible Guesses &amp; Get A High Score! Etc.
+Guess an Album Each Day!
+Albumdle: A Framed.Wtf or Guessthegame style clone for music listeners, connoisseurs, and everyone!
